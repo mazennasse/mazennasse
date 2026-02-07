@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mazen Nasser 👋
 
-<!--
-**mazennasse/mazennasse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 2nd-year CS student at Cairo University
+- Aspiring IT Professional | IT Support → Sys Admin → Cloud Admin
+- Learning: HTML, CSS, JS, Dart, Flutter, C++, Python
+- Quick learner, problem solver, team-oriented
 
-Here are some ideas to get you started:
+## Projects
+- **Landing Page**: HTML, CSS, JS
+- **Mini Flutter App**: Dart & Flutter
+- [More Projects](https://github.com/mazennasser?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/mazen-nasser-5a65a33a9/)
